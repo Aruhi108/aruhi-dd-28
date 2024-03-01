@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    text-decoration: rgb(4, 94, 94);
+}
+body{
+    background-color: none;
+}
+ li {
+    list-style: underline;
+    display: flex ;
+    flex-direction: column;
+}
+.pic{
+    position: relative;
+    bottom: 150vh;
+     left: 70vh;
+
